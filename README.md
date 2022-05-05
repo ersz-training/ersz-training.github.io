@@ -15,6 +15,7 @@ if (isAwesome) {
 
 But I have to admit, tasks lists are my favorite:
 
+- [x] Woah
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
